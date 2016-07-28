@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "Node js server simple",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo\\\"Error: No test\"&& exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "pha",
+  "license": "ISC"
+}
